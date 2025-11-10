@@ -8,6 +8,5 @@ The goal of this project was to run a CDA on a behavioral dataset in order to ob
   5) CDA execution
   6) Correlation of FC between groups
 
-The code to excute this project comes in three files: data_prep_for_CDA.R (data imputation, data pooling, data normalization, data thresholding), 
-CDA.R
-CDA_FC_correlation.R
+The code to excute this project comes in three files: *data_prep_for_CDA.R* (data imputation, data pooling, data normalization, data thresholding), 
+*CDA.R* (CDA execution), and *CDA_FC_correlation.R* (correlation of FC between groups).
